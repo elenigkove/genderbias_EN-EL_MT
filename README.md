@@ -7,14 +7,14 @@ In recent years, concern has grown over the susceptibility of machine translatio
 
 ## Contents
 * **Gkovedarou_MA_thesis_06012026.pdf**: MA thesis paper
-* <ins>**data** folder</ins>:
+* **data** folder:
     - **GendEL.xlsx**: Full GendEL dataset with human translations, translations by Google Translate, DeepL and prompted GPT-4o, and annotations.
     - **GendEL_set_MT.csv**: Subset of GendEL including only the translations by Google Translate and DeepL (used for the uploaded code).
     - **GendEL_set_LLM.csv**: Subset of GendEL including only the translations by prompted GPT-4o (used for the uploaded code). 
-* <ins>**code** folder</ins>:
+* **code** folder:
     - **evaluation.ipynb**: Code for the evaluation of the translations produced by Google Translate, DeepL and prompted GPT-4o to assess the presence of gender bias in the outputs.
     - **prompted_gpt_4o.iynb**: Code for the prompting of GPT-4o, specifically customised for EN-EL gender-inclusive translations.
-* <ins>**figures** folder</ins>: Contains all the plots/visualisations presented in the study.
+* **figures** folder: Contains all the plots/visualisations presented in the study.
     
 ## Contributions
 Contributions of this study: (1) the creation and public release of **GendEL**, the first handcrafted dataset for evaluating English-to-Greek translations, and (2) emphasis on the need for more gender-inclusive translation practices in Greek.
