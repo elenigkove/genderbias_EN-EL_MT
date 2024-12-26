@@ -10,11 +10,11 @@ In recent years, concern has grown over the susceptibility of machine translatio
 ## Contents
 * **Gkovedarou_MA_thesis_06012025.pdf**: MA thesis paper
 * **data** folder:
-    - **GendEL.xlsx**: Full GendEL dataset with human translations, translations by Google Translate, DeepL and prompted GPT-4o, and annotations.
+    - **GendEL.xlsx**: Full GendEL with human translations, translations by Google Translate, DeepL and prompted GPT-4o, and annotations.
     - **GendEL_set_MT.csv**: Subset of GendEL including only the translations by Google Translate and DeepL (used for the uploaded code).
     - **GendEL_set_LLM.csv**: Subset of GendEL including only the translations by prompted GPT-4o (used for the uploaded code). 
 * **code** folder:
-    - **evaluation.ipynb**: Code for the evaluation of the translations produced by Google Translate, DeepL and prompted GPT-4o to assess the presence of gender bias in the outputs.
+    - **evaluation.ipynb**: Code for gender bias evaluation of GendEL translations produced by Google Translate, DeepL and prompted GPT-4o.
     - **prompted_gpt_4o.iynb**: Code for the prompting of GPT-4o, specifically customised for EN-EL gender-inclusive translations.
 * **figures** folder: Contains all the plots/visualisations presented in the study.
 
