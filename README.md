@@ -20,6 +20,7 @@ In recent years, concern has grown over the susceptibility of machine translatio
 Contributions of this study: (1) the creation and public release of **GendEL**, the first handcrafted dataset for evaluating English-to-Greek translations, and (2) emphasis on the need for more gender-inclusive translation practices in Greek.
 
 ## Citing
+```
 @mastersthesis{Gkovedarou25thesis,
   author    = {Eleni Gkovedarou},
   title     = {Gender Bias in English-to-Greek Machine Translation},
@@ -29,3 +30,4 @@ Contributions of this study: (1) the creation and public release of **GendEL**, 
   school    = {University of Antwerp},
   type      = {Master's thesis}
 }
+```
