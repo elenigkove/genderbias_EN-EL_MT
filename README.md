@@ -10,7 +10,7 @@ In recent years, concern has grown over the susceptibility of machine translatio
 ## Contents
 * **Gkovedarou_MA_thesis_06012025.pdf**: MA thesis paper
 * **data** folder:
-    - **GendEL.xlsx**: Full GendEL with human translations, translations by Google Translate, DeepL and prompted GPT-4o, and annotations.
+    - **GendEL.xlsx**: Full GendEL with _i)_ human translations, _ii)_ translations by Google Translate, _iii)_ DeepL and _iv)_ prompted GPT-4o, and _v)_ annotations.
     - **GendEL_set_MT.csv**: Subset of GendEL including only the translations by Google Translate and DeepL (used for the uploaded code).
     - **GendEL_set_LLM.csv**: Subset of GendEL including only the translations by prompted GPT-4o (used for the uploaded code). 
 * **code** folder:
