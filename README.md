@@ -1,6 +1,6 @@
 # Gender Bias in English-to-Greek Machine Translation
 
-This repo contains code and data associated with MA thesis on Gender Bias in English-to-Greek Machine Translation.
+This repo contains code and data associated with the MA thesis on Gender Bias in English-to-Greek Machine Translation.
 
 
 ## Abstract
