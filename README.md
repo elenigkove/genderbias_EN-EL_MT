@@ -26,7 +26,9 @@ Contributions of this study: (1) the creation and public release of **GendEL**, 
 ## Citing
 ```
 @mastersthesis{gkovedarouetal25thesis,
-  author    = {Eleni Gkovedarou, Joke Daems, Luna De Bruyne},
+  author    = {Gkovedarou, Eleni and
+               Daems, Joke and
+               De Bruyne, Luna},
   title     = {Gender Bias in English-to-Greek Machine Translation},
   year      = {2025},
   month     = {January},
