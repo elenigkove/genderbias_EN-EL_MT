@@ -1,6 +1,6 @@
 # Gender Bias in English-to-Greek Machine Translation
 
-This repo contains code and data associated with the MA thesis on Gender Bias in English-to-Greek Machine Translation.
+This repo contains code and data associated with the paper and MA thesis on Gender Bias in English-to-Greek Machine Translation.
 
 
 ## Abstract
@@ -8,6 +8,7 @@ In recent years, concern has grown over the susceptibility of machine translatio
 
 
 ## Contents
+* **Gender Bias in English-to-Greek Machine Translation.pdf**: Paper
 * **Eleni_Gkovedarou_DTA_thesis.pdf**: MA thesis paper
 * **data** folder:
     - **GendEL.xlsx**: Full GendEL with _i)_ human translations, _ii)_ translations by Google Translate, _iii)_ DeepL and _iv)_ prompted GPT-4o, and _v)_ annotations.
