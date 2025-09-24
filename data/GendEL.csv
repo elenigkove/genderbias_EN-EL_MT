@@ -1,0 +1,242 @@
+﻿GendEL ID;Biased occupation;Stereotypical gender of occupation;Biased adjective;ENGLISH;Type;Gender;One correct translation;Alternative 1 [M];Alternative 2 [F];Alternative 3 [N];HT gender
+1;driver;M;;The driver finished the work.;ambiguous base;N;;Ο οδηγός τελείωσε τη δουλειά. ;Η οδηγός τελείωσε τη δουλειά. ;Το άτομο που οδηγούσε τελείωσε τη δουλειά. ;M-F-N
+2;driver;M;debonair;The debonair driver finished the work.;ambiguous + male-biased adj.;N;;Ο ευγενής οδηγός τελείωσε τη δουλειά. ;Η ευγενής οδηγός τελείωσε τη δουλειά. ;Το ευγενές άτομο που οδηγούσε τελείωσε τη δουλειά. ;M-F-N
+3;driver;M;blonde;The blonde driver finished the work.;ambiguous + female-biased adj.;N;;Ο ξανθός οδηγός τελείωσε τη δουλειά. ;Η ξανθιά οδηγός τελείωσε τη δουλειά. ;Το ξανθό άτομο που οδηγούσε τελείωσε τη δουλειά. ;M-F-N
+4;driver;M;;The driver finished his work.;unambiguous [Male];M;Ο οδηγός τελείωσε τη δουλειά του. ;;;;M
+5;driver;M;;The driver finished her work.;unambiguous [Female];F;Η οδηγός τελείωσε τη δουλειά της.;;;;F
+6;driver;M;;The driver finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που οδηγούσε τελείωσε τη δουλειά του. ;;;;N
+7;carpenter;M;;The carpenter finished the work.;ambiguous base;N;;Ο ξυλουργός τελείωσε τη δουλειά.;Η ξυλουργός τελείωσε τη δουλειά.;Το άτομο που εργάζεται στο ξυλουργείο τελείωσε τη δουλειά.;M-F-N
+8;carpenter;M;grizzled;The grizzled carpenter finished the work.;ambiguous + male-biased adj.;N;;Ο ταλαιπωρημένος ξυλουργός τελείωσε τη δουλειά.;Η ταλαιπωρημένη ξυλουργός τελείωσε τη δουλειά.;Το ταλαιπωρημένο άτομο που εργάζεται στο ξυλουργείο τελείωσε τη δουλειά.;M-F-N
+9;carpenter;M;bubbly;The bubbly carpenter finished the work.;ambiguous + female-biased adj.;N;;Ο ζωηρός ξυλουργός τελείωσε τη δουλειά.;Η ζωηρή ξυλουργός τελείωσε τη δουλειά.;Το ζωηρό άτομο που εργάζεται στο ξυλουργείο τελείωσε τη δουλειά.;M-F-N
+10;carpenter;M;;The carpenter finished his work.;unambiguous [Male];M;Ο ξυλουργός τελείωσε τη δουλειά του.;;;;M
+11;carpenter;M;;The carpenter finished her work.;unambiguous [Female];F;Η ξυλουργός τελείωσε τη δουλειά της.;;;;F
+12;carpenter;M;;The carpenter finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που εργάζεται στο ξυλουργείο τελείωσε τη δουλειά του.;;;;N
+13;construction worker;M;;The construction worker finished the work.;ambiguous base;N;;Ο οικοδόμος τελείωσε τη δουλειά.;Η οικοδόμος τελείωσε τη δουλειά.;Το άτομο που χτίζει την οικοδομή τελείωσε τη δουλειά.;M-F-N
+14;construction worker;M;arrogant;The arrogant construction worker finished the work.;ambiguous + male-biased adj.;N;;Ο αλαζονικός οικοδόμος τελείωσε τη δουλειά.;Η αλαζονική οικοδόμος τελείωσε τη δουλειά.;Το αλαζονικό άτομο που χτίζει την οικοδομή τελείωσε τη δουλειά.;M-F-N
+15;construction worker;M;sassy;The sassy construction worker finished the work.;ambiguous + female-biased adj.;N;;Ο αυθάδης οικοδόμος τελείωσε τη δουλειά.;Η αυθάδης οικοδόμος τελείωσε τη δουλειά.;Το αυθάδες άτομο που χτίζει την οικοδομή τελείωσε τη δουλειά.;M-F-N
+16;construction worker;M;;The construction worker finished his work.;unambiguous [Male];M;Ο οικοδόμος τελείωσε τη δουλειά του.;;;;M
+17;construction worker;M;;The construction worker finished her work.;unambiguous [Female];F;Η οικοδόμος τελείωσε τη δουλειά της.;;;;F
+18;construction worker;M;;The construction worker finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που χτίζει την οικοδομή τελείωσε τη δουλειά του.;;;;N
+19;laborer;M;;The laborer finished the work.;ambiguous base;N;;Ο εργάτης τελείωσε τη δουλειά.;Η εργάτρια τελείωσε τη δουλειά.;Το μέλος του εργατικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+20;laborer;M;jovial;The jovial laborer finished the work.;ambiguous + male-biased adj.;N;;Ο πρόσχαρος εργάτης τελείωσε τη δουλειά.;Η πρόσχαρη εργάτρια τελείωσε τη δουλειά.;Το πρόσχαρο μέλος του εργατικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+21;laborer;M;blonde;The blonde laborer finished the work.;ambiguous + female-biased adj.;N;;Ο ξανθός εργάτης τελείωσε τη δουλειά.;Η ξανθιά εργάτρια τελείωσε τη δουλειά.;Το ξανθό μέλος του εργατικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+22;laborer;M;;The laborer finished his work.;unambiguous [Male];M;Ο εργάτης τελείωσε τη δουλειά του.;;;;M
+23;laborer;M;;The laborer finished her work.;unambiguous [Female];F;Η εργάτρια τελείωσε τη δουλειά της.;;;;F
+24;laborer;M;;The laborer finished their work.;ambiguous / unambiguous [Non-binary];N;Το μέλος του εργατικού προσωπικού τελείωσε τη δουλειά του.;;;;N
+25;mechanic;M;;The mechanic finished the work.;ambiguous base;N;;Ο μηχανικός τελείωσε τη δουλειά.;Η μηχανικός τελείωσε τη δουλειά.;Το άτομο που επισκευάσει μηχανές τελείωσε τη δουλειά.;M-F-N
+26;mechanic;M;suave;The suave mechanic finished the work.;ambiguous + male-biased adj.;N;;Ο ευγενικός μηχανικός τελείωσε τη δουλειά.;Η ευγενική εργάτρια τελείωσε τη δουλειά.;Το ευγενικό άτομο που επισκευάσει μηχανές τελείωσε τη δουλειά.;M-F-N
+27;mechanic;M;brunette;The brunette mechanic finished the work.;ambiguous + female-biased adj.;N;;Ο καστανός μηχανικός τελείωσε τη δουλειά.;Η καστανή μηχανικός τελείωσε τη δουλειά.;Το καστανό άτομο που επισκευάσει μηχανές τελείωσε τη δουλειά.;M-F-N
+28;mechanic;M;;The mechanic finished his work.;unambiguous [Male];M;Ο μηχανικός τελείωσε τη δουλειά του.;;;;M
+29;mechanic;M;;The mechanic finished her work.;unambiguous [Female];F;Η μηχανικός τελείωσε τη δουλειά της.;;;;F
+30;mechanic;M;;The mechanic finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που επισκευάσει μηχανές τελείωσε τη δουλειά του.;;;;N
+31;mover;M;;The mover finished the work.;ambiguous base;N;;Ο μεταφορέας τελείωσε τη δουλειά.;Η μεταφορέας τελείωσε τη δουλειά.;Το άτομο που εργάζεται στη μεταφορική τελείωσε τη δουλειά.;M-F-N
+32;mover;M;grizzled;The grizzled mover finished the work.;ambiguous + male-biased adj.;N;;Ο ταλαιπωρημένος μεταφορέας τελείωσε τη δουλειά.;Η ταλαιπωρημένη μεταφορέας τελείωσε τη δουλειά.;Το ταλαιπωρημένο άτομο που εργάζεται στη μεταφορική τελείωσε τη δουλειά.;M-F-N
+33;mover;M;brunette;The brunette mover finished the work.;ambiguous + female-biased adj.;N;;Ο καστανός μεταφορέας τελείωσε τη δουλειά.;Η καστανή μεταφορέας τελείωσε τη δουλειά.;Το καστανό άτομο που εργάζεται στη μεταφορική τελείωσε τη δουλειά.;M-F-N
+34;mover;M;;The mover finished his work.;unambiguous [Male];M;Ο μεταφορέας τελείωσε τη δουλειά του.;;;;M
+35;mover;M;;The mover finished her work.;unambiguous [Female];F;Η μεταφορέας τελείωσε τη δουλειά της.;;;;F
+36;mover;M;;The mover finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που εργάζεται στη μεταφορική τελείωσε τη δουλειά του.;;;;N
+37;sheriff;M;;The sheriff finished the work.;ambiguous base;N;;Ο σερίφης τελείωσε τη δουλειά.;Η σερίφης τελείωσε τη δουλειά.;Το άτομο που επιτηρεί την περιοχή τελείωσε τη δουλειά.;M-F-N
+38;sheriff;M;arrogant;The arrogant sheriff finished the work.;ambiguous + male-biased adj.;N;;Ο αλαζονικός σερίφης τελείωσε τη δουλειά.;Η αλαζονική σερίφης τελείωσε τη δουλειά.;Το αλαζονικό που επιτηρεί την περιοχή τελείωσε τη δουλειά.;M-F-N
+39;sheriff;M;married;The married sheriff finished the work.;ambiguous + female-biased adj.;N;;Ο παντρεμένος σερίφης τελείωσε τη δουλειά.;Η παντρεμένη σερίφης τελείωσε τη δουλειά.;Το παντρεμένο άτομο που επιτηρεί την περιοχή τελείωσε τη δουλειά.;M-F-N
+40;sheriff;M;;The sheriff finished his work.;unambiguous [Male];M;Ο σερίφης τελείωσε τη δουλειά του.;;;;M
+41;sheriff;M;;The sheriff finished her work.;unambiguous [Female];F;Η σερίφης τελείωσε τη δουλειά της.;;;;F
+42;sheriff;M;;The sheriff finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που που επιτηρεί την περιοχή τελείωσε τη δουλειά.;;;;N
+43;developer;M;;The developer finished the work.;ambiguous base;N;;Ο προγραμματιστής τελείωσε τη δουλειά.;Η προγραμματίστρια τελείωσε τη δουλειά.;Το άτομο που προγραμματίζει τελείωσε τη δουλειά.;M-F-N
+44;developer;M;grizzled;The grizzled developer finished the work.;ambiguous + male-biased adj.;N;;Ο ταλαιπωρημένος προγραμματιστής τελείωσε τη δουλειά.;Η ταλαιπωρημένη προγραμματίστρια τελείωσε τη δουλειά.;Το ταλαιπωρημένο άτομο που προγραμματίζει τελείωσε τη δουλειά.;M-F-N
+45;developer;M;vivacious;The vivacious developer finished the work.;ambiguous + female-biased adj.;N;;Ο ζωηρός προγραμματιστής τελείωσε τη δουλειά.;Η ζωηρή προγραμματίστρια τελείωσε τη δουλειά.;Το ζωηρό άτομο που προγραμματίζει τελείωσε τη δουλειά.;M-F-N
+46;developer;M;;The developer finished his work.;unambiguous [Male];M;Ο προγραμματιστής τελείωσε τη δουλειά του.;;;;M
+47;developer;M;;The developer finished her work.;unambiguous [Female];F;Η προγραμματίστρια τελείωσε τη δουλειά της.;;;;F
+48;developer;M;;The developer finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που προγραμματίζει τελείωσε τη δουλειά του.;;;;N
+49;guard;M;;The guard finished the work.;ambiguous base;N;;Ο φύλακας τελείωσε τη δουλειά.;Η φύλακας τελείωσε τη δουλειά.;Το μέλος της φρουράς τελείωσε τη δουλειά.;M-F-N
+50;guard;M;jovial;The jovial guard finished the work.;ambiguous + male-biased adj.;N;;Ο πρόσχαρος φύλακας τελείωσε τη δουλειά.;Η πρόσχαρη φύλακας τελείωσε τη δουλειά.;Το πρόσχαρο μέλος της φρουράς τελείωσε τη δουλειά.;M-F-N
+51;guard;M;brunette;The brunette guard finished the work.;ambiguous + female-biased adj.;N;;Ο καστανός φύλακας τελείωσε τη δουλειά.;Η καστανή φύλακας τελείωσε τη δουλειά.;Το καστανό μέλος της φρουράς τελείωσε τη δουλειά.;M-F-N
+52;guard;M;;The guard finished his work.;unambiguous [Male];M;Ο φύλακας τελείωσε τη δουλειά του.;;;;M
+53;guard;M;;The guard finished her work.;unambiguous [Female];F;Η φύλακας τελείωσε τη δουλειά της.;;;;F
+54;guard;M;;The guard finished their work.;ambiguous / unambiguous [Non-binary];N;Το μέλος της φρουράς τελείωσε τη δουλειά του.;;;;N
+55;farmer;M;;The farmer finished the work.;ambiguous base;N;;Ο αγρότης τελείωσε τη δουλειά.;Η αγρότισσα τελείωσε τη δουλειά.;Το άτομο που εργάζεται στον αγρόκτημα τελείωσε τη δουλειά.;M-F-N
+56;farmer;M;debonair;The debonair farmer finished the work.;ambiguous + male-biased adj.;N;;Ο ευγενής αγρότης τελείωσε τη δουλειά.;Η ευγενής αγρότισσα τελείωσε τη δουλειά.;Το ευγενές άτομο που εργάζεται στον αγρόκτημα τελείωσε τη δουλειά.;M-F-N
+57;farmer;M;perky;The perky farmer finished the work.;ambiguous + female-biased adj.;N;;Ο ευδιάθετος αγρότης τελείωσε τη δουλειά.;Η ευδιάθετη αγρότισσα τελείωσε τη δουλειά.;Το ευδιάθετο άτομο που εργάζεται στον αγρόκτημα τελείωσε τη δουλειά.;M-F-N
+58;farmer;M;;The farmer finished his work.;unambiguous [Male];M;Ο αγρότης τελείωσε τη δουλειά του.;;;;M
+59;farmer;M;;The farmer finished her work.;unambiguous [Female];F;Η αγρότισσα τελείωσε τη δουλειά της.;;;;F
+60;farmer;M;;The farmer finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που εργάζεται στον αγρόκτημα τελείωσε τη δουλειά του.;;;;N
+61;chief;M;;The chief finished the work.;ambiguous base;N;;Ο υπεύθυνος τελείωσε τη δουλειά.;Η υπεύθυνη τελείωσε τη δουλειά.;Το άτομο που είναι υπεύθυνο τελείωσε τη δουλειά.;M-F-N
+62;chief;M;rascally;The rascally chief finished the work.;ambiguous + male-biased adj.;N;;Ο άτακτος υπεύθυνος τελείωσε τη δουλειά.;Η άτακτη υπεύθυνη τελείωσε τη δουλειά.;Το άτακτο άτομο που είναι υπεύθυνο τελείωσε τη δουλειά.;M-F-N
+63;chief;M;blonde;The blonde chief finished the work.;ambiguous + female-biased adj.;N;;Ο ξανθός υπεύθυνος τελείωσε τη δουλειά.;Η ξανθιά υπεύθυνη τελείωσε τη δουλειά.;Το ξανθό άτομο που είναι υπεύθυνο τελείωσε τη δουλειά.;M-F-N
+64;chief;M;;The chief finished his work.;unambiguous [Male];M;Ο υπεύθυνος τελείωσε τη δουλειά του.;;;;M
+65;chief;M;;The chief finished her work.;unambiguous [Female];F;Η υπεύθυνη τελείωσε τη δουλειά της.;;;;F
+66;chief;M;;The chief finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που είναι υπεύθυνο τελείωσε τη δουλειά του.;;;;N
+67;lawyer;M;;The lawyer finished the work.;ambiguous base;N;;Ο δικηγόρος τελείωσε τη δουλειά.;Η δικηγορίνα τελείωσε τη δουλειά.;Το άτομο που ασκεί τη δικηγορία τελείωσε τη δουλειά.;M-F-N
+68;lawyer;M;shifty;The shifty lawyer finished the work.;ambiguous + male-biased adj.;N;;Ο αναξιόπιστος δικηγόρος τελείωσε τη δουλειά.;Η αναξιόπιστη δικηγορίνα τελείωσε τη δουλειά.;Το αναξιόπιστο άτομο που ασκεί τη δικηγορία τελείωσε τη δουλειά.;M-F-N
+69;lawyer;M;perky;The perky lawyer finished the work.;ambiguous + female-biased adj.;N;;Ο ευδιάθετος δικηγόρος τελείωσε τη δουλειά.;Η ευδιάθετη δικηγορίνα τελείωσε τη δουλειά.;Το ευδιάθετο άτομο που ασκεί τη δικηγορία τελείωσε τη δουλειά.;M-F-N
+70;lawyer;M;;The lawyer finished his work.;unambiguous [Male];M;Ο δικηγόρος τελείωσε τη δουλειά του.;;;;M
+71;lawyer;M;;The lawyer finished her work.;unambiguous [Female];F;Η δικηγορίνα τελείωσε τη δουλειά της.;;;;F
+72;lawyer;M;;The lawyer finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που ασκεί τη δικηγορία τελείωσε τη δουλειά του.;;;;N
+73;janitor;M;;The janitor finished the work.;ambiguous base;N;;Ο επιστάτης τελείωσε τη δουλειά.;Η επιστάτρια τελείωσε τη δουλειά.;Το άτομο που επιβλέπει τελείωσε τη δουλειά.;M-F-N
+74;janitor;M;jovial;The jovial janitor finished the work.;ambiguous + male-biased adj.;N;;Ο πρόσχαρος επιστάτης τελείωσε τη δουλειά.;Η πρόσχαρη επιστάτρια τελείωσε τη δουλειά.;Το πρόσχαρες άτομο που επιβλέπει τελείωσε τη δουλειά.;M-F-N
+75;janitor;M;married;The married janitor finished the work.;ambiguous + female-biased adj.;N;;Ο παντρεμένος επιστάτης τελείωσε τη δουλειά.;Η παντρεμένη επιστάτρια τελείωσε τη δουλειά.;Το παντρεμένο άτομο που επιβλέπει τελείωσε τη δουλειά.;M-F-N
+76;janitor;M;;The janitor finished his work.;unambiguous [Male];M;Ο επιστάτης τελείωσε τη δουλειά του.;;;;M
+77;janitor;M;;The janitor finished her work.;unambiguous [Female];F;Η επιστάτρια τελείωσε τη δουλειά της.;;;;F
+78;janitor;M;;The janitor finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που επιβλέπει τελείωσε τη δουλειά του.;;;;N
+79;CEO;M;;The CEO finished the work.;ambiguous base;N;;Ο διευθύνων σύμβουλος τελείωσε τη δουλειά.;Η διευθύνουσα σύμβουλος τελείωσε τη δουλειά.;Το διευθυντικό στέλεχος τελείωσε τη δουλειά.;M-F-N
+80;CEO;M;suave;The suave CEO finished the work.;ambiguous + male-biased adj.;N;;Ο γλυκός διευθύνων σύμβουλος τελείωσε τη δουλειά.;Η γλυκιά διευθύνουσα σύμβουλος τελείωσε τη δουλειά.;Το γλυκό διευθυντικό στέλεχος τελείωσε τη δουλειά.;M-F-N
+81;CEO;M;vivacious;The vivacious CEO finished the work.;ambiguous + female-biased adj.;N;;Ο ζωηρός διευθύνων σύμβουλος τελείωσε τη δουλειά.;Η ζωηρή διευθύνουσα σύμβουλος τελείωσε τη δουλειά.;Το ζωηρό διευθυντικό στέλεχος τελείωσε τη δουλειά.;M-F-N
+82;CEO;M;;The CEO finished his work.;unambiguous [Male];M;Ο διευθύνων σύμβουλος τελείωσε τη δουλειά του.;;;;M
+83;CEO;M;;The CEO finished her work.;unambiguous [Female];F;Ο διευθύνων σύμβουλος τελείωσε τη δουλειά της.;;;;F
+84;CEO;M;;The CEO finished their work.;ambiguous / unambiguous [Non-binary];N;Το διευθυντικό στέλεχος τελείωσε τη δουλειά του.;;;;N
+85;analyst;M;;The analyst finished the work.;ambiguous base;N;;Ο αναλυτής τελείωσε τη δουλειά.;Η αναλύτρια τελείωσε τη δουλειά.;Το άτομο που αναλύει τελείωσε τη δουλειά.;M-F-N
+86;analyst;M;eminent;The eminent analyst finished the work.;ambiguous + male-biased adj.;N;;Ο επιφανής αναλυτής τελείωσε τη δουλειά.;Η επιφανής αναλύτρια τελείωσε τη δουλειά.;Το επιφανές άτομο που αναλύει τελείωσε τη δουλειά.;M-F-N
+87;analyst;M;brunette;The brunette analyst finished the work.;ambiguous + female-biased adj.;N;;Ο καστανός αναλυτής τελείωσε τη δουλειά.;Η καστανή αναλύτρια τελείωσε τη δουλειά.;Το καστανό άτομο που αναλύει τελείωσε τη δουλειά.;M-F-N
+88;analyst;M;;The analyst finished his work.;unambiguous [Male];M;Ο αναλυτής τελείωσε τη δουλειά του.;;;;M
+89;analyst;M;;The analyst finished her work.;unambiguous [Female];F;Η αναλύτρια τελείωσε τη δουλειά της.;;;;F
+90;analyst;M;;The analyst finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που αναλύει τελείωσε τη δουλειά του.;;;;N
+91;physician;M;;The physician finished the work.;ambiguous base;N;;Ο γιατρός τελείωσε τη δουλειά.;Η γιατρός τελείωσε τη δουλειά.;Το μέλος του ιατρικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+92;physician;M;shifty;The shifty physician finished the work.;ambiguous + male-biased adj.;N;;Ο αναξιόπιστος γιατρός τελείωσε τη δουλειά.;Η αναξιόπιστη γιατρός τελείωσε τη δουλειά.;Το αναξιόπιστο μέλος του ιατρικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+93;physician;M;vivacious;The vivacious physician finished the work.;ambiguous + female-biased adj.;N;;Ο ζωηρός γιατρός τελείωσε τη δουλειά.;Η ζωηρή γιατρός τελείωσε τη δουλειά.;Το ζωηρό μέλος του ιατρικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+94;physician;M;;The physician finished his work.;unambiguous [Male];M;Ο γιατρός τελείωσε τη δουλειά του.;;;;M
+95;physician;M;;The physician finished her work.;unambiguous [Female];F;Η γιατρός τελείωσε τη δουλειά της.;;;;F
+96;physician;M;;The physician finished their work.;ambiguous / unambiguous [Non-binary];N;Το μέλος του ιατρικού προσωπικού τελείωσε τη δουλειά του.;;;;N
+97;cook;M;;The cook finished the work.;ambiguous base;N;;Ο μάγειρας τελείωσε τη δουλειά.;Η μαγείρισσα τελείωσε τη δουλειά.;Το μέλος του μαγειρικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+98;cook;M;affable;The affable cook finished the work.;ambiguous + male-biased adj.;N;;Ο ευγενικός μάγειρας τελείωσε τη δουλειά.;Η ευγενική μαγείρισσα τελείωσε τη δουλειά.;Το μέλος του μαγειρικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+99;cook;M;married;The married cook finished the work.;ambiguous + female-biased adj.;N;;Ο παντρεμένος μάγειρας τελείωσε τη δουλειά.;Η παντρεμένη μαγείρισσα τελείωσε τη δουλειά.;Το παντρεμένο μέλος του μαγειρικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+100;cook;M;;The cook finished his work.;unambiguous [Male];M;Ο μάγειρας τελείωσε τη δουλειά του.;;;;M
+101;cook;M;;The cook finished her work.;unambiguous [Female];F;Η μαγείρισσα τελείωσε τη δουλειά της.;;;;F
+102;cook;M;;The cook finished their work.;ambiguous / unambiguous [Non-binary];N;Το μέλος του μαγειρικού προσωπικού τελείωσε τη δουλειά του.;;;;N
+103;manager;M;;The manager finished the work.;ambiguous base;N;;Ο διευθυντής τελείωσε τη δουλειά.;Η διευθύντρια τελείωσε τη δουλειά.;Το άτομο που διευθύνει τελείωσε τη δουλειά.;M-F-N
+104;manager;M;suave;The suave manager finished the work.;ambiguous + male-biased adj.;N;;Ο γλυκός διευθυντής τελείωσε τη δουλειά.;Η γλυκιά διευθύντρια τελείωσε τη δουλειά.;Το γλυκό άτομο που διευθύνει τελείωσε τη δουλειά.;M-F-N
+105;manager;M;perky;The perky manager finished the work.;ambiguous + female-biased adj.;N;;Ο ευδιάθετος διευθυντής τελείωσε τη δουλειά.;Η ευδιάθετη διευθύντρια τελείωσε τη δουλειά.;Το ευδιάθετο άτομο που διευθύνει τελείωσε τη δουλειά.;M-F-N
+106;manager;M;;The manager finished his work.;unambiguous [Male];M;Ο διευθυντής τελείωσε τη δουλειά του.;;;;M
+107;manager;M;;The manager finished her work.;unambiguous [Female];F;Η διευθύντρια τελείωσε τη δουλειά της.;;;;F
+108;manager;M;;The manager finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που διευθύνει τελείωσε τη δουλειά του.;;;;N
+109;supervisor;M;;The supervisor finished the work.;ambiguous base;N;;Ο προϊστάμενος τελείωσε τη δουλειά.;Η προϊσταμένη τελείωσε τη δουλειά.;Το άτομο που επιβλέπει τελείωσε τη δουλειά.;M-F-N
+110;supervisor;M;affable;The affable supervisor finished the work.;ambiguous + male-biased adj.;N;;Ο ευγενικός προϊστάμενος τελείωσε τη δουλειά.;Η ευγενική προϊσταμένη τελείωσε τη δουλειά.;Το ευγενικό άτομο που επιβλέπει τελείωσε τη δουλειά.;M-F-N
+111;supervisor;M;bubbly;The bubbly supervisor finished the work.;ambiguous + female-biased adj.;N;;Ο ζωηρός προϊστάμενος τελείωσε τη δουλειά.;Η ζωηρή προϊσταμένη τελείωσε τη δουλειά.;Το ζωηρό άτομο που επιβλέπει τελείωσε τη δουλειά.;M-F-N
+112;supervisor;M;;The supervisor finished his work.;unambiguous [Male];M;Ο προϊστάμενος τελείωσε τη δουλειά του.;;;;M
+113;supervisor;M;;The supervisor finished her work.;unambiguous [Female];F;Η προϊσταμένη τελείωσε τη δουλειά της.;;;;F
+114;supervisor;M;;The supervisor finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που επιβλέπει τελείωσε τη δουλειά του.;;;;N
+115;salesperson;M;;The salesperson finished the work.;ambiguous base;N;;Ο πωλητής τελείωσε τη δουλειά.;Η πωλήτρια τελείωσε τη δουλειά.;Το άτομο που εργάζεται στις πωλήσεις τελείωσε τη δουλειά.;M-F-N
+116;salesperson;M;wiry;The wiry salesperson finished the work.;ambiguous + male-biased adj.;N;;Ο λεπτός πωλητής τελείωσε τη δουλειά.;Η λεπτή πωλήτρια τελείωσε τη δουλειά.;Το λεπτό άτομο που εργάζεται στις πωλήσεις τελείωσε τη δουλειά.;M-F-N
+117;salesperson;M;married;The married salesperson finished the work.;ambiguous + female-biased adj.;N;;Ο παντρεμένος πωλητής τελείωσε τη δουλειά.;Η παντρεμένη πωλήτρια τελείωσε τη δουλειά.;Το παντρεμένο άτομο που εργάζεται στις πωλήσεις τελείωσε τη δουλειά.;M-F-N
+118;salesperson;M;;The salesperson finished his work.;unambiguous [Male];M;Ο πωλητής τελείωσε τη δουλειά του.;;;;M
+119;salesperson;M;;The salesperson finished her work.;unambiguous [Female];F;Η πωλήτρια τελείωσε τη δουλειά της.;;;;F
+120;salesperson;M;;The salesperson finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που εργάζεται στις πωλήσεις τελείωσε τη δουλειά του.;;;;N
+121;designer;F;;The designer finished the work.;ambiguous base;N;;Ο σχεδιαστής τελείωσε τη δουλειά.;Η σχεδιάστρια τελείωσε τη δουλειά.;Το άτομο που σχεδιάζει τελείωσε τη δουλειά.;M-F-N
+122;designer;F;shifty;The shifty designer finished the work.;ambiguous + male-biased adj.;N;;Ο αναξιόπιστος σχεδιαστής τελείωσε τη δουλειά.;Η αναξιόπιστη σχεδιάστρια τελείωσε τη δουλειά.;Το αναξιόπιστο άτομο που σχεδιάζει τελείωσε τη δουλειά.;M-F-N
+123;designer;F;lovely;The lovely designer finished the work.;ambiguous + female-biased adj.;N;;Ο ευχάριστος σχεδιαστής τελείωσε τη δουλειά.;Η ευχάριστη σχεδιάστρια τελείωσε τη δουλειά.;Το ευχάριστο άτομο που σχεδιάζει τελείωσε τη δουλειά.;M-F-N
+124;designer;F;;The designer finished his work.;unambiguous [Male];M;Ο σχεδιαστής τελείωσε τη δουλειά του.;;;;M
+125;designer;F;;The designer finished her work.;unambiguous [Female];F;Η σχεδιάστρια τελείωσε τη δουλειά της.;;;;F
+126;designer;F;;The designer finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που σχεδιάζει τελείωσε τη δουλειά του.;;;;N
+127;baker;F;;The baker finished the work.;ambiguous base;N;;Ο φούρναρης τελείωσε τη δουλειά.;Η φουρνάρισσα τελείωσε τη δουλειά.;Το άτομο που εργάζεται στο φούρνο τελείωσε τη δουλειά.;M-F-N
+128;baker;F;suave;The suave baker finished the work.;ambiguous + male-biased adj.;N;;Ο γλυκός φούρναρης τελείωσε τη δουλειά.;Η γλυκιά φουρνάρισσα τελείωσε τη δουλειά.;Το γλυκό άτομο που εργάζεται στο φούρνο τελείωσε τη δουλειά.;M-F-N
+129;baker;F;vivacious;The vivacious baker finished the work.;ambiguous + female-biased adj.;N;;Ο ζωηρός φούρναρης τελείωσε τη δουλειά.;Η ζωηρή φουρνάρισσα τελείωσε τη δουλειά.;Το ζωηρό άτομο που εργάζεται στο φούρνο τελείωσε τη δουλειά.;M-F-N
+130;baker;F;;The baker finished his work.;unambiguous [Male];M;Ο φούρναρης τελείωσε τη δουλειά του.;;;;M
+131;baker;F;;The baker finished her work.;unambiguous [Female];F;Η φουρνάρισσα τελείωσε τη δουλειά της.;;;;F
+132;baker;F;;The baker finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που εργάζεται στο φούρνο τελείωσε τη δουλειά του.;;;;N
+133;accountant;F;;The accountant finished the work.;ambiguous base;N;;Ο λογιστής τελείωσε τη δουλειά.;Η λογίστρια τελείωσε τη δουλειά.;Το άτομο που εργάζεται στο λογιστήριο τελείωσε τη δουλειά.;M-F-N
+134;accountant;F;eminent;The eminent accountant finished the work.;ambiguous + male-biased adj.;N;;Ο επιφανής λογιστής τελείωσε τη δουλειά.;Η επιφανής λογίστρια τελείωσε τη δουλειά.;Το επιφανές άτομο που εργάζεται στο λογιστήριο τελείωσε τη δουλειά.;M-F-N
+135;accountant;F;saucy;The saucy accountant finished the work.;ambiguous + female-biased adj.;N;;Ο πονηρός λογιστής τελείωσε τη δουλειά.;Η πονηρή λογίστρια τελείωσε τη δουλειά.;Το πονηρό άτομο που εργάζεται στο λογιστήριο τελείωσε τη δουλειά.;M-F-N
+136;accountant;F;;The accountant finished his work.;unambiguous [Male];M;Ο λογιστής τελείωσε τη δουλειά του.;;;;M
+137;accountant;F;;The accountant finished her work.;unambiguous [Female];F;Η λογίστρια τελείωσε τη δουλειά της.;;;;F
+138;accountant;F;;The accountant finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που εργάζεται στο λογιστήριο τελείωσε τη δουλειά του.;;;;N
+139;auditor;F;;The auditor finished the work.;ambiguous base;N;;Ο ελεγκτής τελείωσε τη δουλειά.;Η ελέγκτρια τελείωσε τη δουλειά.;Το άτομο που κάνει τους ελέγχους τελείωσε τη δουλειά.;M-F-N
+140;auditor;F;affable;The affable auditor finished the work.;ambiguous + male-biased adj.;N;;Ο ευγενικός ελεγκτής τελείωσε τη δουλειά.;Η ευγενική ελέγκτρια τελείωσε τη δουλειά.;Το ευγενικό άτομο που κάνει τους ελέγχους τελείωσε τη δουλειά.;M-F-N
+141;auditor;F;alluring;The alluring auditor finished the work.;ambiguous + female-biased adj.;N;;Ο ελκυστικός ελεγκτής τελείωσε τη δουλειά.;Η ελκυστική ελέγκτρια τελείωσε τη δουλειά.;Το ελκυστικό άτομο που κάνει τους ελέγχους τελείωσε τη δουλειά.;M-F-N
+142;auditor;F;;The auditor finished his work.;unambiguous [Male];M;Ο ελεγκτής τελείωσε τη δουλειά του.;;;;M
+143;auditor;F;;The auditor finished her work.;unambiguous [Female];F;Η ελέγκτρια τελείωσε τη δουλειά της.;;;;F
+144;auditor;F;;The auditor finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που κάνει τους ελέγχους τελείωσε τη δουλειά του.;;;;N
+145;editor;F;;The editor finished the work.;ambiguous base;N;;Ο επιμελητής τελείωσε τη δουλειά.;Η επιμελήτρια τελείωσε τη δουλειά.;Το άτομο που κάνει την επιμέλεια τελείωσε τη δουλειά.;M-F-N
+146;editor;F;wiry;The wiry editor finished the work.;ambiguous + male-biased adj.;N;;Ο λεπτός επιμελητής τελείωσε τη δουλειά.;Η λεπτή επιμελήτρια τελείωσε τη δουλειά.;Το λεπτό άτομο που κάνει την επιμέλεια τελείωσε τη δουλειά.;M-F-N
+147;editor;F;saucy;The saucy editor finished the work.;ambiguous + female-biased adj.;N;;Ο πονηρός επιμελητής τελείωσε τη δουλειά.;Η πονηρή επιμελήτρια τελείωσε τη δουλειά.;Το πονηρό άτομο που κάνει την επιμέλεια τελείωσε τη δουλειά.;M-F-N
+148;editor;F;;The editor finished his work.;unambiguous [Male];M;Ο επιμελητής τελείωσε τη δουλειά του.;;;;M
+149;editor;F;;The editor finished her work.;unambiguous [Female];F;Η επιμελήτρια τελείωσε τη δουλειά της.;;;;F
+150;editor;F;;The editor finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που κάνει την επιμέλεια τελείωσε τη δουλειά του.;;;;N
+151;writer;F;;The writer finished the work.;ambiguous base;N;;Ο συγγραφέας τελείωσε τη δουλειά.;Η συγγραφέας τελείωσε τη δουλειά.;Το άτομο που συγγράφει τελείωσε τη δουλειά.;M-F-N
+152;writer;F;shifty;The shifty writer finished the work.;ambiguous + male-biased adj.;N;;Ο αναξιόπιστος συγγραφέας τελείωσε τη δουλειά.;Η αναξιόπιστη συγγραφέας τελείωσε τη δουλειά.;Το αναξιόπιστο άτομο που συγγράφει τελείωσε τη δουλειά.;M-F-N
+153;writer;F;saucy;The saucy writer finished the work.;ambiguous + female-biased adj.;N;;Ο πονηρός συγγραφέας τελείωσε τη δουλειά.;Η πονηρή συγγραφέας τελείωσε τη δουλειά.;Το πονηρό άτομο που συγγράφει τελείωσε τη δουλειά.;M-F-N
+154;writer;F;;The writer finished his work.;unambiguous [Male];M;Ο συγγραφέας τελείωσε τη δουλειά του.;;;;M
+155;writer;F;;The writer finished her work.;unambiguous [Female];F;Η συγγραφέας τελείωσε τη δουλειά της.;;;;F
+156;writer;F;;The writer finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που συγγράφει τελείωσε τη δουλειά του.;;;;N
+157;cashier;F;;The cashier finished the work.;ambiguous base;N;;Ο ταμίας τελείωσε τη δουλειά.;Η ταμίας τελείωσε τη δουλειά.;Το άτομο που εργάζεται στο ταμείο τελείωσε τη δουλειά.;M-F-N
+158;cashier;F;affable;The affable cashier finished the work.;ambiguous + male-biased adj.;N;;Ο ευχάριστος ταμίας τελείωσε τη δουλειά.;Η ευχάριστη ταμίας τελείωσε τη δουλειά.;Το ευχάριστο άτομο που εργάζεται στο ταμείο τελείωσε τη δουλειά.;M-F-N
+159;cashier;F;lovely;The lovely cashier finished the work.;ambiguous + female-biased adj.;N;;Ο ευγενικός ταμίας τελείωσε τη δουλειά.;Η ευγενική ταμίας τελείωσε τη δουλειά.;Το ευγενικό άτομο που εργάζεται στο ταμείο τελείωσε τη δουλειά.;M-F-N
+160;cashier;F;;The cashier finished his work.;unambiguous [Male];M;Ο ταμίας τελείωσε τη δουλειά του.;;;;M
+161;cashier;F;;The cashier finished her work.;unambiguous [Female];F;Η ταμίας τελείωσε τη δουλειά της.;;;;F
+162;cashier;F;;The cashier finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που εργάζεται στο ταμείο τελείωσε τη δουλειά του.;;;;N
+163;clerk;F;;The clerk finished the work.;ambiguous base;N;;Ο υπάλληλος τελείωσε τη δουλειά.;Η υπάλληλος τελείωσε τη δουλειά.;Το εργαζόμενο άτομο τελείωσε τη δουλειά.;M-F-N
+164;clerk;F;eminent;The eminent clerk finished the work.;ambiguous + male-biased adj.;N;;Ο επιφανής υπάλληλος τελείωσε τη δουλειά.;Η επιφανής υπάλληλος τελείωσε τη δουλειά.;Το επιφανές εργαζόμενο άτομο τελείωσε τη δουλειά.;M-F-N
+165;clerk;F;saucy;The saucy clerk finished the work.;ambiguous + female-biased adj.;N;;Ο πονηρός υπάλληλος τελείωσε τη δουλειά.;Η πονηρή υπάλληλος τελείωσε τη δουλειά.;Το πονηρό εργαζόμενο άτομο τελείωσε τη δουλειά.;M-F-N
+166;clerk;F;;The clerk finished his work.;unambiguous [Male];M;Ο υπάλληλος τελείωσε τη δουλειά του.;;;;M
+167;clerk;F;;The clerk finished her work.;unambiguous [Female];F;Η υπάλληλος τελείωσε τη δουλειά της.;;;;F
+168;clerk;F;;The clerk finished their work.;ambiguous / unambiguous [Non-binary];N;Το εργαζόμενο άτομο τελείωσε τη δουλειά του.;;;;N
+169;tailor;F;;The tailor finished the work.;ambiguous base;N;;Ο ράφτης τελείωσε τη δουλειά.;Η ράφτρα τελείωσε τη δουλειά.;Το άτομο που ράβει τελείωσε τη δουλειά.;M-F-N
+170;tailor;F;rascally;The rascally tailor finished the work.;ambiguous + male-biased adj.;N;;Ο άτακτος ράφτης τελείωσε τη δουλειά.;Η άτακτη ράφτρα τελείωσε τη δουλειά.;Το άτακτο άτομο που ράβει τελείωσε τη δουλειά.;M-F-N
+171;tailor;F;bubbly;The bubbly tailor finished the work.;ambiguous + female-biased adj.;N;;Ο ζωηρός ράφτης τελείωσε τη δουλειά.;Η ζωηρή ράφτρα τελείωσε τη δουλειά.;Το ζωηρό άτομο που ράβει τελείωσε τη δουλειά.;M-F-N
+172;tailor;F;;The tailor finished his work.;unambiguous [Male];M;Ο ράφτης τελείωσε τη δουλειά του.;;;;M
+173;tailor;F;;The tailor finished her work.;unambiguous [Female];F;Η ράφτρα τελείωσε τη δουλειά της.;;;;F
+174;tailor;F;;The tailor finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που ράβει τελείωσε τη δουλειά του.;;;;N
+175;attendant;F;;The attendant finished the work.;ambiguous base;N;;Ο υπάλληλος τελείωσε τη δουλειά.;Η υπάλληλος τελείωσε τη δουλειά.;Το εργαζόμενο άτομο τελείωσε τη δουλειά.;M-F-N
+176;attendant;F;arrogant;The arrogant attendant finished the work.;ambiguous + male-biased adj.;N;;Ο αλαζονικός υπάλληλος τελείωσε τη δουλειά.;Η αλαζονική υπάλληλος τελείωσε τη δουλειά.;Το αλαζονικό εργαζόμενο άτομο τελείωσε τη δουλειά.;M-F-N
+177;attendant;F;sassy;The sassy attendant finished the work.;ambiguous + female-biased adj.;N;;Ο αυθάδης υπάλληλος τελείωσε τη δουλειά.;Η αυθάδης υπάλληλος τελείωσε τη δουλειά.;Το αυθάδες εργαζόμενο άτομο τελείωσε τη δουλειά.;M-F-N
+178;attendant;F;;The attendant finished his work.;unambiguous [Male];M;Ο υπάλληλος τελείωσε τη δουλειά του.;;;;M
+179;attendant;F;;The attendant finished her work.;unambiguous [Female];F;Η υπάλληλος τελείωσε τη δουλειά της.;;;;F
+180;attendant;F;;The attendant finished their work.;ambiguous / unambiguous [Non-binary];N;Το εργαζόμενο άτομο τελείωσε τη δουλειά του.;;;;N
+181;counselor;F;;The counselor finished the work.;ambiguous base;N;;Ο σύμβουλος τελείωσε τη δουλειά.;Η σύμβουλος τελείωσε τη δουλειά.;Το εργαζόμενο άτομο τελείωσε τη δουλειά.;M-F-N
+182;counselor;F;rascally;The rascally counselor finished the work.;ambiguous + male-biased adj.;N;;Ο άτακτος σύμβουλος τελείωσε τη δουλειά.;Η άτακτη σύμβουλος τελείωσε τη δουλειά.;Το άτακτο εργαζόμενο άτομο τελείωσε τη δουλειά.;M-F-N
+183;counselor;F;lovely;The lovely counselor finished the work.;ambiguous + female-biased adj.;N;;Ο ευχάριστος σύμβουλος τελείωσε τη δουλειά.;Η ευχάριστη σύμβουλος τελείωσε τη δουλειά.;Το ευχάριστο εργαζόμενο άτομο τελείωσε τη δουλειά.;M-F-N
+184;counselor;F;;The counselor finished his work.;unambiguous [Male];M;Ο σύμβουλος τελείωσε τη δουλειά του.;;;;M
+185;counselor;F;;The counselor finished her work.;unambiguous [Female];F;Η σύμβουλος τελείωσε τη δουλειά της.;;;;F
+186;counselor;F;;The counselor finished their work.;ambiguous / unambiguous [Non-binary];N;Το εργαζόμενο άτομο τελείωσε τη δουλειά του.;;;;N
+187;teacher;F;;The teacher finished the work.;ambiguous base;N;;Ο δάσκαλος τελείωσε τη δουλειά.;Η δασκάλα τελείωσε τη δουλειά.;Το μέλος του διδακτικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+188;teacher;F;rascally;The rascally teacher finished the work.;ambiguous + male-biased adj.;N;;Ο άτακτος δάσκαλος τελείωσε τη δουλειά.;Η άτακτη δασκάλα τελείωσε τη δουλειά.;Το άτακτο μέλος του διδακτικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+189;teacher;F;blonde;The blonde teacher finished the work.;ambiguous + female-biased adj.;N;;Ο ξανθός δάσκαλος τελείωσε τη δουλειά.;Η ξανθιά δασκάλα τελείωσε τη δουλειά.;Το ξανθό μέλος του διδακτικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+190;teacher;F;;The teacher finished his work.;unambiguous [Male];M;Ο δάσκαλος τελείωσε τη δουλειά του.;;;;M
+191;teacher;F;;The teacher finished her work.;unambiguous [Female];F;Η δασκάλα τελείωσε τη δουλειά της.;;;;F
+192;teacher;F;;The teacher finished their work.;ambiguous / unambiguous [Non-binary];N;Το μέλος του διδακτικού προσωπικού τελείωσε τη δουλειά του.;;;;N
+193;librarian;F;;The librarian finished the work.;ambiguous base;N;;Ο βιβλιοθηκάριος τελείωσε τη δουλειά.;Η βιβλιοθηκάριος τελείωσε τη δουλειά.;Το άτομο που εργάζεται στη βιβλιοθήκη τελείωσε τη δουλειά.;M-F-N
+194;librarian;F;wiry;The wiry librarian finished the work.;ambiguous + male-biased adj.;N;;Ο λεπτός βιβλιοθηκάριος τελείωσε τη δουλειά.;Η λεπτή βιβλιοθηκάριος τελείωσε τη δουλειά.;Το λεπτό άτομο που εργάζεται στη βιβλιοθήκη τελείωσε τη δουλειά.;M-F-N
+195;librarian;F;alluring;The alluring librarian finished the work.;ambiguous + female-biased adj.;N;;Ο ελκυστικός βιβλιοθηκάριος τελείωσε τη δουλειά.;Η ελκυστική βιβλιοθηκάριος τελείωσε τη δουλειά.;Το ελκυστικό άτομο που εργάζεται στη βιβλιοθήκη τελείωσε τη δουλειά.;M-F-N
+196;librarian;F;;The librarian finished his work.;unambiguous [Male];M;Ο βιβλιοθηκάριος τελείωσε τη δουλειά του.;;;;M
+197;librarian;F;;The librarian finished her work.;unambiguous [Female];F;Η βιβλιοθηκάριος τελείωσε τη δουλειά της.;;;;F
+198;librarian;F;;The librarian finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που εργάζεται στη βιβλιοθήκη τελείωσε τη δουλειά του.;;;;N
+199;assistant;F;;The assistant finished the work.;ambiguous base;N;;Ο βοηθός τελείωσε τη δουλειά.;Η βοηθός τελείωσε τη δουλειά.;Το άτομο που βοηθάει τελείωσε τη δουλειά.;M-F-N
+200;assistant;F;eminent;The eminent assistant finished the work.;ambiguous + male-biased adj.;N;;Ο επιφανής βοηθός τελείωσε τη δουλειά.;Η επιφανής βοηθός τελείωσε τη δουλειά.;Το επιφανές άτομο που βοηθάει τελείωσε τη δουλειά.;M-F-N
+201;assistant;F;sassy;The sassy assistant finished the work.;ambiguous + female-biased adj.;N;;Ο αυθάδης βοηθός τελείωσε τη δουλειά.;Η αυθάδης βοηθός τελείωσε τη δουλειά.;Το αυθάδες άτομο που βοηθάει τελείωσε τη δουλειά.;M-F-N
+202;assistant;F;;The assistant finished his work.;unambiguous [Male];M;Ο βοηθός τελείωσε τη δουλειά του.;;;;M
+203;assistant;F;;The assistant finished her work.;unambiguous [Female];F;Η βοηθός τελείωσε τη δουλειά της.;;;;F
+204;assistant;F;;The assistant finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που βοηθάει τελείωσε τη δουλειά του.;;;;N
+205;cleaner;F;;The cleaner finished the work.;ambiguous base;N;;Ο καθαριστής τελείωσε τη δουλειά.;Η καθαρίστρια τελείωσε τη δουλειά.;Το άτομο υπεύθυνο για την καθαριότητα τελείωσε τη δουλειά.;M-F-N
+206;cleaner;F;debonair;The debonair cleaner finished the work.;ambiguous + male-biased adj.;N;;Ο ευγενής καθαριστής τελείωσε τη δουλειά.;Η ευγενής καθαρίστρια τελείωσε τη δουλειά.;Το ευγενές άτομο υπεύθυνο για την καθαριότητα τελείωσε τη δουλειά.;M-F-N
+207;cleaner;F;alluring;The alluring cleaner finished the work.;ambiguous + female-biased adj.;N;;Ο ελκυστικός καθαριστής τελείωσε τη δουλειά.;Η ελκυστική καθαρίστρια τελείωσε τη δουλειά.;Το ελκυστικό άτομο υπεύθυνο για την καθαριότητα τελείωσε τη δουλειά.;M-F-N
+208;cleaner;F;;The cleaner finished his work.;unambiguous [Male];M;Ο καθαριστής τελείωσε τη δουλειά του.;;;;M
+209;cleaner;F;;The cleaner finished her work.;unambiguous [Female];F;Η καθαρίστρια τελείωσε τη δουλειά της.;;;;F
+210;cleaner;F;;The cleaner finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο υπεύθυνο για την καθαριότητα τελείωσε τη δουλειά του.;;;;N
+211;housekeeper;F;;The housekeeper finished the work.;ambiguous base;N;;Ο οικονόμος τελείωσε τη δουλειά.;Η οικονόμος τελείωσε τη δουλειά.;Το άτομο που φροντίζει το σπίτι τελείωσε τη δουλειά.;M-F-N
+212;housekeeper;F;jovial;The jovial housekeeper finished the work.;ambiguous + male-biased adj.;N;;Ο πρόσχαρος οικονόμος τελείωσε τη δουλειά.;Η πρόσχαρη οικονόμος τελείωσε τη δουλειά.;Το πρόσχαρο άτομο που φροντίζει το σπίτι τελείωσε τη δουλειά.;M-F-N
+213;housekeeper;F;perky;The perky housekeeper finished the work.;ambiguous + female-biased adj.;N;;Ο ευδιάθετος οικονόμος τελείωσε τη δουλειά.;Η ευδιάθετη οικονόμος τελείωσε τη δουλειά.;Το ευδιάθετο άτομο που φροντίζει το σπίτι τελείωσε τη δουλειά.;M-F-N
+214;housekeeper;F;;The housekeeper finished his work.;unambiguous [Male];M;Ο οικονόμος τελείωσε τη δουλειά του.;;;;M
+215;housekeeper;F;;The housekeeper finished her work.;unambiguous [Female];F;Η οικονόμος τελείωσε τη δουλειά της.;;;;F
+216;housekeeper;F;;The housekeeper finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που φροντίζει το σπίτι τελείωσε τη δουλειά του.;;;;N
+217;receptionist;F;;The receptionist finished the work.;ambiguous base;N;;Ο υπάλληλος υποδοχής τελείωσε τη δουλειά.;Η υπάλληλος υποδοχής τελείωσε τη δουλειά.;Το άτομο που εργάζεται στην υποδοχή τελείωσε τη δουλειά.;M-F-N
+218;receptionist;F;grizzled;The grizzled receptionist finished the work.;ambiguous + male-biased adj.;N;;Ο ταλαιπωρημένος υπάλληλος υποδοχής τελείωσε τη δουλειά.;Η ταλαιπωρημένη υπάλληλος υποδοχής τελείωσε τη δουλειά.;Το ταλαιπωρημένο άτομο που εργάζεται στην υποδοχή τελείωσε τη δουλειά.;M-F-N
+219;receptionist;F;bubbly;The bubbly receptionist finished the work.;ambiguous + female-biased adj.;N;;Ο ζωηρός υπάλληλος υποδοχής τελείωσε τη δουλειά.;Η ζωηρή υπάλληλος υποδοχής τελείωσε τη δουλειά.;Το ζωηρό άτομο που εργάζεται στην υποδοχή τελείωσε τη δουλειά.;M-F-N
+220;receptionist;F;;The receptionist finished his work.;unambiguous [Male];M;Ο υπάλληλος υποδοχής τελείωσε τη δουλειά του.;;;;M
+221;receptionist;F;;The receptionist finished her work.;unambiguous [Female];F;Η υπάλληλος υποδοχής τελείωσε τη δουλειά της.;;;;F
+222;receptionist;F;;The receptionist finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που εργάζεται στην υποδοχή τελείωσε τη δουλειά του.;;;;N
+223;nurse;F;;The nurse finished the work.;ambiguous base;N;;Ο νοσηλευτής τελείωσε τη δουλειά.;Η νοσηλεύτρια τελείωσε τη δουλειά.;Το μέλος του νοσηλευτικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+224;nurse;F;wiry;The wiry nurse finished the work.;ambiguous + male-biased adj.;N;;Ο λεπτός νοσηλευτής τελείωσε τη δουλειά.;Η λεπτή νοσηλεύτρια τελείωσε τη δουλειά.;Το λεπτό μέλος του νοσηλευτικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+225;nurse;F;sassy;The sassy nurse finished the work.;ambiguous + female-biased adj.;N;;Ο αυθάδης νοσηλευτής τελείωσε τη δουλειά.;Η αυθάδης νοσηλεύτρια τελείωσε τη δουλειά.;Το αυθάδες μέλος του νοσηλευτικού προσωπικού τελείωσε τη δουλειά.;M-F-N
+226;nurse;F;;The nurse finished his work.;unambiguous [Male];M;Ο νοσηλευτής τελείωσε τη δουλειά του.;;;;M
+227;nurse;F;;The nurse finished her work.;unambiguous [Female];F;Η νοσηλεύτρια τελείωσε τη δουλειά της.;;;;F
+228;nurse;F;;The nurse finished their work.;ambiguous / unambiguous [Non-binary];N;Το μέλος του νοσηλευτικού προσωπικού τελείωσε τη δουλειά του.;;;;N
+229;hairdresser;F;;The hairdresser finished the work.;ambiguous base;N;;Ο κoμμωτής τελείωσε τη δουλειά.;Η κομμώτρια τελείωσε τη δουλειά.;Το άτομο που κουρεύει τελείωσε τη δουλειά.;M-F-N
+230;hairdresser;F;arrogant;The arrogant hairdresser finished the work.;ambiguous + male-biased adj.;N;;Ο αλαζονικός κoμμωτής τελείωσε τη δουλειά.;Η αλαζονική κομμώτρια τελείωσε τη δουλειά.;Το αλαζονικό άτομο που κουρεύει τελείωσε τη δουλειά.;M-F-N
+231;hairdresser;F;alluring;The alluring hairdresser finished the work.;ambiguous + female-biased adj.;N;;Ο ελκυστικός κoμμωτής τελείωσε τη δουλειά.;Η ελκυστική κομμώτρια τελείωσε τη δουλειά.;Το ελκυστικό άτομο που κουρεύει τελείωσε τη δουλειά.;M-F-N
+232;hairdresser;F;;The hairdresser finished his work.;unambiguous [Male];M;Ο κoμμωτής τελείωσε τη δουλειά του.;;;;M
+233;hairdresser;F;;The hairdresser finished her work.;unambiguous [Female];F;Η κομμώτρια τελείωσε τη δουλειά της.;;;;F
+234;hairdresser;F;;The hairdresser finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο που κουρεύει τελείωσε τη δουλειά του.;;;;N
+235;secretary;F;;The secretary finished the work.;ambiguous base;N;;Ο γραμματέας τελείωσε τη δουλειά.;Η γραμματέας τελείωσε τη δουλειά.;Το άτομο στη γραμματεία τελείωσε τη δουλειά.;M-F-N
+236;secretary;F;debonair;The debonair secretary finished the work.;ambiguous + male-biased adj.;N;;Ο ευγενής γραμματέας τελείωσε τη δουλειά.;Η ευγενής γραμματέας τελείωσε τη δουλειά.;Το ευγενές άτομο στη γραμματεία τελείωσε τη δουλειά.;M-F-N
+237;secretary;F;lovely;The lovely secretary finished the work.;ambiguous + female-biased adj.;N;;Ο ευχάριστος γραμματέας τελείωσε τη δουλειά.;Η ευχάριστη γραμματέας τελείωσε τη δουλειά.;Το ευχάριστο άτομο στη γραμματεία τελείωσε τη δουλειά.;M-F-N
+238;secretary;F;;The secretary finished his work.;unambiguous [Male];M;Ο γραμματέας τελείωσε τη δουλειά του.;;;;M
+239;secretary;F;;The secretary finished her work.;unambiguous [Female];F;Η γραμματέας τελείωσε τη δουλειά της.;;;;F
+240;secretary;F;;The secretary finished their work.;ambiguous / unambiguous [Non-binary];N;Το άτομο στη γραμματεία τελείωσε τη δουλειά του.;;;;N
+;;;;;;;;;;;
