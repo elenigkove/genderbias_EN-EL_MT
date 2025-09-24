@@ -1,6 +1,6 @@
 # Gender Bias in English-to-Greek Machine Translation
 
-This repo contains code and data associated with the paper and MA thesis on Gender Bias in English-to-Greek Machine Translation.
+This repo contains code and data associated with the paper and MA thesis on "Gender Bias in English-to-Greek Machine Translation".
 
 
 ## Abstract
@@ -8,12 +8,11 @@ In recent years, concern has grown over the susceptibility of machine translatio
 
 
 ## Contents
-* **Gender Bias in English-to-Greek Machine Translation.pdf**: Paper
 * **Eleni_Gkovedarou_DTA_thesis.pdf**: MA thesis paper
 * **data** folder:
-    - **GendEL.xlsx**: Full GendEL with _i)_ human translations, _ii)_ translations by Google Translate, _iii)_ DeepL and _iv)_ prompted GPT-4o, and _v)_ annotations.
-    - **GendEL_set_MT.csv**: Subset of GendEL including only the translations by Google Translate and DeepL (used for the uploaded code).
-    - **GendEL_set_LLM.csv**: Subset of GendEL including only the translations by prompted GPT-4o (used for the uploaded code). 
+    - **GendEL.csv**: GendEL dataset with handcrafted English sentences and Greek (alternate) translations.
+    - **GendEL_set_MT.csv**: Subset of GendEL including the English sentences with Google Translate and DeepL translations (used for evaluation).
+    - **GendEL_set_LLM.csv**: Subset of GendEL including the English sentences with GPT-4o translations (used for evaluation). 
 * **code** folder:
     - **evaluation.ipynb**: Code for gender bias evaluation of GendEL translations produced by Google Translate, DeepL and prompted GPT-4o.
     - **prompted_gpt_4o.iynb**: Code for the prompting of GPT-4o, specifically customised for EN-EL gender-inclusive translations.
@@ -21,18 +20,30 @@ In recent years, concern has grown over the susceptibility of machine translatio
 
 
 ## Contributions
-Contributions of this study: (1) the creation and public release of **GendEL**, the first handcrafted dataset for evaluating English-to-Greek translations, and (2) emphasis on the need for more gender-inclusive translation practices in Greek.
+The creation and public release of **GendEL**, the first handcrafted dataset for evaluating English-to-Greek translations.
 
 
 ## Citing
 ```
-@misc{gkovedarou2025genderbiasenglishtogreekmachine,
-      title={Gender Bias in English-to-Greek Machine Translation}, 
-      author={Eleni Gkovedarou and Joke Daems and Luna De Bruyne},
-      year={2025},
-      eprint={2506.09558},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.09558}, 
+@inproceedings{gkovedarou-etal-2025-gender,
+    title = "Gender Bias in {E}nglish-to-{G}reek Machine Translation",
+    author = "Gkovedarou, Eleni  and
+      Daems, Joke  and
+      De Bruyne, Luna",
+    editor = "Hackenbuchner, Jani{\c{c}}a  and
+      Bentivogli, Luisa  and
+      Daems, Joke  and
+      Manna, Chiara  and
+      Savoldi, Beatrice  and
+      Vanmassenhove, Eva",
+    booktitle = "Proceedings of the 3rd Workshop on Gender-Inclusive Translation Technologies (GITT 2025)",
+    month = jun,
+    year = "2025",
+    address = "Geneva, Switzerland",
+    publisher = "European Association for Machine Translation",
+    url = "https://aclanthology.org/2025.gitt-1.2/",
+    pages = "17--45",
+    ISBN = "978-2-9701897-4-9",
+    abstract = "As the demand for inclusive language increases, concern has grown over the susceptibility of machine translation (MT) systems to reinforce gender stereotypes. This study investigates gender bias in two commercial MT systems, Google Translate and DeepL, focusing on the understudied English-to-Greek language pair. We address three aspects of gender bias: i) male bias, ii) occupational stereotyping, and iii) errors in anti-stereotypical translations. Additionally, we explore the potential of prompted GPT-4o as a bias mitigation tool that provides both gender-explicit and gender-neutral alternatives when necessary. To achieve this, we introduce GendEL, a manually crafted bilingual dataset of 240 gender-ambiguous and unambiguous sentences that feature stereotypical occupational nouns and adjectives. We find persistent gender bias in translations by both MT systems; while they perform well in cases where gender is explicitly defined, with DeepL outperforming both Google Translate and GPT-4o in feminine gender-unambiguous sentences, they are far from producing gender-inclusive or neutral translations when the gender is unspecified. GPT-4o shows promise, generating appropriate gendered and neutral alternatives for most ambiguous cases, though residual biases remain evident. As one of the first comprehensive studies on gender bias in English-to-Greek MT, we provide both our data and code at \url{https://github.com/elenigkove/genderbias_EN-EL_MT}."
 }
 ```
