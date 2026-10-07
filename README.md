@@ -8,7 +8,6 @@ In recent years, concern has grown over the susceptibility of machine translatio
 
 
 ## Contents
-* **Eleni_Gkovedarou_DTA_thesis.pdf**: MA thesis paper
 * **data** folder:
     - **GendEL.csv**: GendEL dataset with handcrafted English sentences and Greek (alternate) translations.
     - **GendEL_set_MT.csv**: Subset of GendEL including the English sentences with Google Translate and DeepL translations (used for evaluation).
